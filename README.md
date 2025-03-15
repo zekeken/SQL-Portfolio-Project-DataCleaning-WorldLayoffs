@@ -1,2 +1,2 @@
 # SQL-Portfolio-Projects
-This is my SQL Portfolio Project - Data Cleaning (World Layoffs)
+This is my Data Cleaning (World Layoffs) Project
